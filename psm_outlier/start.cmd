@@ -1,0 +1,1 @@
+java -Xmx15G -cp "perf_spec-assembly-1.1.0.jar;classifiers_outlier.jar"  org.processmining.scala.viewers.spectrum.view.Form 
