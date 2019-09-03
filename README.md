@@ -3,7 +3,7 @@ Source code for the graduation project "Outlier Detection in event logs of mater
 
 More information is available in the User Manual 
 
-###Requirements
+### Requirements
 
 -- Install  Python 3 \
 -- Install Anaconda \
