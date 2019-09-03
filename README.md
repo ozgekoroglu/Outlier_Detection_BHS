@@ -1,6 +1,10 @@
 # User Manual for Outlier Detection in Event Logs of Material Handling System
 Source code for the graduation project "Outlier Detection in event logs of material handling system"
 
+More information is available in the User Manual 
+
+###Requirements
+
 -- Install  Python 3 \
 -- Install Anaconda \
 -- Install  Python 
